@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tplexamples:
+    image: ${DOCKER_REGISTRY}tplexamples
+    build:
+      context: .\TPLExamples
+      dockerfile: Dockerfile
