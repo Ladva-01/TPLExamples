@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{739153CF-A2A4-42A3-B432-DD82603E0F80}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TPLExamples</RootNamespace>
-    <AssemblyName>TPLExamples</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <RootNamespace>RS.Retry</RootNamespace>
+    <AssemblyName>RS.Retry</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
